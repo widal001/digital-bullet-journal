@@ -1,3 +1,8 @@
+---
+type: how-to
+tags: tutorial
+---
+
 # Shortcut-List
 
 You can use either the name or the id to find each shortcut in the settings (File > Preferences > Keyboard Shortcuts) and find out what it is bound to on your system and change it according to your liking.

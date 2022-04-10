@@ -1,3 +1,8 @@
+---
+type: how-to
+tags: tutorial
+---
+
 # Paste Images from Clipboard
 
 You can paste an image from the clipboard with `cmd+alt+v`.

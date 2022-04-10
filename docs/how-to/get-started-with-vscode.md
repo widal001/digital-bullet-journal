@@ -1,3 +1,8 @@
+---
+type: how-to
+tags: tutorial
+---
+
 # Getting started with VS Code
 
 VS Code is a powerful text editor, hidden behind a simple interface.
