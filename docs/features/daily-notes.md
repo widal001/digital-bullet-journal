@@ -1,3 +1,8 @@
+---
+type: feature
+tags: tutorial
+---
+
 # Daily Notes
 
 Daily notes allow you to quickly create and access notes for today.

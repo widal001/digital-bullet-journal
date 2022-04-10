@@ -1,3 +1,8 @@
+---
+type: feature
+tags: tutorial
+---
+
 # Spell Checking
 
 Foam comes with a spell checker.

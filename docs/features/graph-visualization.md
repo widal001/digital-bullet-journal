@@ -1,3 +1,8 @@
+---
+type: feature
+tags: tutorial
+---
+
 # Graph Visualization
 
 Foam comes with a graph visualization of your notes.

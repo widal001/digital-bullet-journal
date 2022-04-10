@@ -1,6 +1,7 @@
 ---
 type: feature
 keywords: hello world
+tags: tutorial
 ---
 
 # Note Properties
